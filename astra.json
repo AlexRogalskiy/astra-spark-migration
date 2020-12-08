@@ -4,7 +4,7 @@
   "duration": "40 minutes",
   "skillLevel": "Expert",
   "githubUrl": "https://github.com/DataStax-Examples/astra-spark-migration",
-  "tags": [{ "name": "labs", "color": "warning" }, { "name": "java" }],
+  "tags": [{ "name": "labs", "color": "warning" }, { "name": "scala" }],
   "category": "tools",
   "priority": 1
 }
