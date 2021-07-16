@@ -1,5 +1,5 @@
 <!--- STARTEXCLUDE --->
-# Astra DB to Spark Migration Tool
+# Spark Migration Tool for Astra DB
 *40 minutes, Expert, [Start Building](https://github.com/DataStax-Examples/astra-spark-migration#prerequisites)*
 
 Migrate data from an existing Cassandra cluster to Astra DB using a Spark application.
