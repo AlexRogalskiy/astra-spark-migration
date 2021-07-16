@@ -1,5 +1,5 @@
 {
-  "name": "Astra DB to Spark Migration Tool",
+  "name": "Spark Migration Tool for Astra DB",
   "description": "Migrate data from an existing Cassandra cluster to Astra DB using a Spark application.",
   "duration": "40 minutes",
   "skillLevel": "Expert",
