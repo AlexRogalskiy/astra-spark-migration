@@ -6,5 +6,5 @@
   "githubUrl": "https://github.com/DataStax-Examples/astra-spark-migration",
   "tags": [{ "name": "labs", "color": "warning" }, { "name": "scala" }],
   "category": "tools",
-  "priority": 1
+  "priority": 2
 }
