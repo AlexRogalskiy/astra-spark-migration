@@ -5,7 +5,7 @@
 Migrate data from an existing Cassandra cluster to Astra DB using a Spark application.
 <!--- ENDEXCLUDE --->
 
-![image](https://monosnap.com/image/XzDUe9By3ehIJt2ZcQwbSd8Av5sSQY)
+![image](https://raw.githubusercontent.com/DataStax-Examples/astra-spark-migration/master/hero.png)
 
 ## Objectives
 * Leverage Spark to migrate data from a Cassandra cluster to Cassandra on Astra DB.
